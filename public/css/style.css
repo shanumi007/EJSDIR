@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+img {
+    height:200px;
+    width: 200px;
+}
+div {
+    position: static;
+    bottom: 0px;
+    margin-bottom: 0px;
+    background-color: lightblue;
+    color: black;
+}
